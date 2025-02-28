@@ -1,5 +1,7 @@
-## Hi there 👋
-Welcome to a new project for sharing data analysis in the U of U EM Med Ed Fellowship Group
-Please find data analysis in progress below
-
+# Greetings! 👋
+## Welcome to a new project for sharing data analysis within the U of U EM Med Ed Fellowship Research Group
+### Please find the data analysis in progress below:
 [Student Eval Data (in progress)](Student-Eval-Data-Summary.html)
+\
+\
+`Rowan Kelner MD, Brian Merritt DO, Sofia Tuttle MD, Julia Ruggieri MD and Patrick Hughes DO`
