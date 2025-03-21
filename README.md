@@ -4,7 +4,7 @@ Please find data analyses below:
 \
 [Student Eval Data (in progress)](Student-Eval-Data-Summary.html)
 \
-[MERC Learning Resource Data (in progress)](learning-resources.html)
+[MERC Learning Resource Data (in progress)](Learning-Resources.html)
 \
 \
 `Rowan Kelner MD, Brian Merritt DO, Sofia Tuttle MD, Julia Ruggieri MD and Patrick Hughes DO`
