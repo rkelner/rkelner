@@ -6,5 +6,6 @@ Please find data analyses below:
 \
 [MERC Learning Resource Data (in progress)](Learning_Resources.html)
 \
+[Certifying Exam Pre-Survey Data (in progress)](Pre_Survey_CE.html)
 \
-`Rowan Kelner MD, Brian Merritt DO, Sofia Tuttle MD, Julia Ruggieri MD and Patrick Hughes DO`
+`Rowan Kelner MD`
