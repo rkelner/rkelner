@@ -8,7 +8,7 @@ Please find data analyses below:
 \
 [Mock Certifying Exam Pre/PostSurvey Data (in progress)](Mock_CE_Graphs_and_Tables.html)
 \
-[Mock Certifying Exam Scoring Data (in progress)](https://rpubs.com/rkelner/1310491)
+[Mock Certifying Exam Scoring Data (in progress)](http://rpubs.com/rkelner/CE_Scoring)
 \
 [The Art of Receiving Feedback TTI Data (in progress)](TTI_Pre_Post_Stats_Table.html)
 
