@@ -4,6 +4,8 @@ Please find data analyses below:
 \
 [Student Eval Data (in progress)](Student-Eval-Data-Summary.html)
 \
+[Student Eval QR Code Sub-Analysis:Student Factors Influencing Card Completion](http://rpubs.com/rkelner/Evals_qr_sub_completion)
+\
 [MERC Learning Resource Data](Learning_Resources.html)
 \
 [Mock Certifying Exam Pre/PostSurvey Data (in progress)](Mock_CE_Graphs_and_Tables.html)
