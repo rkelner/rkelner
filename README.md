@@ -8,7 +8,7 @@ Please find data analyses below:
 \
 [MERC Learning Resource Data](Learning_Resources.html)
 \
-[Mock Certifying Exam Pre/PostSurvey Data (in progress)](Mock_CE_Graphs_and_Tables.html)
+[Mock Certifying Exam Pre/PostSurvey Data (in progress)](http://rpubs.com/rkelner/MockCESurvey)
 \
 [Mock Certifying Exam Scoring Data (in progress)](http://rpubs.com/rkelner/CE_Scoring)
 \
