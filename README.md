@@ -15,6 +15,9 @@ Please find data analyses below:
 [The Art of Receiving Feedback TTI Data (in progress)](TTI_Pre_Post_Stats_Table.html)
 \
 [UAC Avalanche Survey Data Visualization](http://rpubs.com/rkelner/avalanche)
+\
+[The Art of Receiving Feedback EM Resident Data (Pre/Post Surveys)](https://rpubs.com/rkelner/ResidentFeedback)
+
 
 
 
