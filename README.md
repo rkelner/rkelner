@@ -28,6 +28,7 @@ Please find data analyses below:
 \
 [The Art of Receiving Feedback EM Resident Data (Pre/Post Surveys)](https://rpubs.com/rkelner/ResidentFeedback)
 \
+[The Art of Reciving Feedback EM Resident Data (Quiz)](https://rpubs.com/rkelner/ResidentQuizFeedback)
 \
 *UAC Post-Avalanche Study*
 \
